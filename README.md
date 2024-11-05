@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋 I'm Dustin
 
-<!--
-**HotWheelzCodez/HotWheelzCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a high school student who is passionate about programming, I love learning new things whenever I can, mainly things related to computer science and math however. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🔹 **Favorite Languages**: C/C++ and TypeScript with React. I love the performance and control of C/C++ and the dynamic capabilities of React and TypeScript for building web applications.
+- 🔹 **Other Skills**: Python, Java, SQL, and some experience with backend frameworks and databases.
+- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open source projects, along with that I currently manage a website for a local dance company, and am working on making new in-house websites for them.
+
+---
+
+### 🛠️ Tech Stack
+**Languages**:  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**:  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases**:  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🌐 My Projects
+- **[find-your-recipe]** - A web-app I made for a Tradeshow for my school, it got 2nd place and I learned a lot about API's and how to use React.
+- **[Circular-Motion-Simulart]** - A C++ Circular Motion Simulation made for a Physics project, learned a lot about Raylib and Physics.
+- **[Geta-Mouse]** - I created a video game in Raylib usings C++ for an ELA project based of off the book "Of Mice And Men", learned a lot about how to manage game state and assets, such as images and audio.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz-160956311/)
+
+
+
+Thanks for stopping by! 🚀 Feel free to explore my repositories and if somehow you are a recuriter looking at this, please hire me!
