@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 ### 💻 About Me
 - 🔹 **Favorite Languages**: C/C++ and TypeScript with React. I love the performance and control of C/C++ and the dynamic capabilities of React and TypeScript for building web applications.
 - 🔹 **Other Skills**: Python, Java, SQL, and some experience with backend frameworks and databases.
-- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open source projects, along with that I currently manage a website for a local dance company, and am working on making new in-house websites for them.
+- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open-source projects, along with that I currently manage a website for a local dance company and I am working on making a new in-house website for them; allowing their students to track their progress in a fun, DnD style.
 
 ---
 
@@ -17,11 +17,14 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Known Languages**:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 **Frameworks & Libraries**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
