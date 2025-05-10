@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 
 ### 💻 About Me
 - 🔹 **Favorite Languages**: C/C++ and TypeScript with React. I love the performance and control of C/C++ and the dynamic capabilities of React and TypeScript for building web applications.
-- 🔹 **Other Skills**: Python, Java, SQL, and some experience with backend frameworks and databases.
-- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open-source projects, along with that I currently manage a website for a local dance company and I am working on making a new in-house website for them; allowing their students to track their progress in a fun, DnD style.
+- 🔹 **Other Skills**: Python, Java, SQL, and experience with backend frameworks and databases.
+- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open-source projects, along with that I currently manage a website for a local dance company.
 
 ---
 
