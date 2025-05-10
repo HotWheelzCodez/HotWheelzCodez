@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 ---
 
 ### 🌐 My Projects
-- **[RubyParticleSimulation]([https://github.com/HotWheelzCodez/find-your-recipe](https://github.com/HotWheelzCodez/RubyParticleSimulation/))** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
+- **[RubyParticleSimulation]([https://github.com/HotWheelzCodez/find-your-recipe](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
 - **[find-your-recipe](https://github.com/HotWheelzCodez/find-your-recipe)** - A web-app I made for a Tradeshow for my school, it got 2nd place and I learned a lot about API's and how to use React.
 - **[Circular-Motion-Simulartion](https://github.com/HotWheelzCodez/Circular-Motion-Simulation)** - A C++ Circular Motion Simulation made for a Physics project, learned a lot about Raylib and Physics.
 - **[Geta-Mouse](https://github.com/HotWheelzCodez/Geta-Mouse)** - I created a video game in Raylib using C++ for an ELA project-based on the book "Of Mice And Men", and learned a lot about how to manage game state and assets, such as images and audio.
