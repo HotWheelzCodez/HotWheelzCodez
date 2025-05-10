@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 ---
 
 ### 🌐 My Projects
+- **[Green Vault](https://github.com/HotWheelzCodez/GreenVault)** - A desktop application made in C++ with Raylib (for the frontend) and a Java HTTP server for the backend. It was made for the 2025 Washington State FBLA competition.
 - **[RubyParticleSimulation](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
 - **[find-your-recipe](https://github.com/HotWheelzCodez/find-your-recipe)** - A web-app I made for a Tradeshow for my school, it got 2nd place and I learned a lot about API's and how to use React.
 - **[Circular-Motion-Simulartion](https://github.com/HotWheelzCodez/Circular-Motion-Simulation)** - A C++ Circular Motion Simulation made for a Physics project, learned a lot about Raylib and Physics.
