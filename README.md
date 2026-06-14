@@ -1,13 +1,13 @@
-# Hi there! 👋 I'm Dustin
+# Hey there, I'm Dustin Bucholtz
 
-Welcome to my GitHub profile! I'm a high school student who is passionate about programming, I love learning new things whenever I can, mainly things related to computer science and math however. 
+Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https://greenvaultaccounting.com), and I have always had a passion for programming and other stem reletated sceinces for as long as I can remember.
 
 ---
 
 ### 💻 About Me
-- 🔹 **Favorite Languages**: C/C++ and TypeScript with React. I love the performance and control of C/C++ and the dynamic capabilities of React and TypeScript for building web applications.
+- 🔹 **Favorite Languages**: C/C++, Go, and React. I love the performance and control of C/C++ and the dynamic capabilities of React for building web applications.
 - 🔹 **Other Skills**: Python, Java, SQL, and experience with backend frameworks and databases.
-- 🔹 **Experience**: I have worked on several solo projects, as well as contributing to open-source projects, along with that I currently manage a website for a local dance company.
+- 🔹 **Experience**: I have worked on several small solo projects, as well as contributing to some open-source projects, along with that I currently manage a website for a local dance company. I also have my own open-source C standard library [Djb_Std](https://github.com/HotWheelzCodez/DjbStd).
 
 ---
 
@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 ---
 
 ### 🌐 My Projects
+- **[Green Vault Accounting](https://greenvaultaccounting.com)** - An all-in-one business management and accounting platform build to make tracking and viewing your business simple for business owners, and complex enough for accounts to use in combination with the business owner.
 - **[Green Vault](https://github.com/HotWheelzCodez/GreenVault)** - A desktop application made in C++ with Raylib (for the frontend) and a Java HTTP server for the backend. It was made for the 2025 Washington State FBLA competition.
 - **[RubyParticleSimulation](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
 - **[find-your-recipe](https://github.com/HotWheelzCodez/find-your-recipe)** - A web-app I made for a Tradeshow for my school, it got 2nd place and I learned a lot about API's and how to use React.
@@ -53,6 +54,10 @@ Welcome to my GitHub profile! I'm a high school student who is passionate about 
 
 ---
 
+### Contact
+dustin@bucholtzsoftware.com
++1 (509) 818-0945
+https://bucholtzsoftware.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz-160956311/)
 
 
