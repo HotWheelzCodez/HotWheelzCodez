@@ -56,10 +56,9 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 
 ### Contact
 dustin@bucholtzsoftware.com
+
 +1 (509) 818-0945
+
 https://bucholtzsoftware.com
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz-160956311/)
-
-
-
-Thanks for stopping by! 🚀 Feel free to explore my repositories and if somehow you are a recruiter looking at this, please hire me!
