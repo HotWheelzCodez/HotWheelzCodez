@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 
 ---
 
-### 💻 About Me
+### About Me
 - **Experience**: I started my own company (Bucholtz Software, LLC), where I founded [Green Vault Accounting](https://greenvaultaccounting.com), as well as developed a custom mobile app for a local dance studio, [Isabelle's Dance Time](https://isabellesdancetime.com) (as well as managing their website). I have also worked on several small solo projects, as well as contributing to some open-source projects. I also have my own open-source C standard library [Djb_Std](https://github.com/HotWheelzCodez/DjbStd), which is still periodically being developed.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Proficient Languages**:  
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -54,12 +54,12 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 ---
 
 ### My Projects
-- **[Green Vault Accounting](https://greenvaultaccounting.com)** - An all-in-one business management and accounting platform build to make tracking and viewing your business simple for business owners, and complex enough for accounts to use in combination with the business owner.
-- **[Green Vault](https://github.com/HotWheelzCodez/GreenVault)** - A desktop application made in C++ with Raylib (for the frontend) and a Java HTTP server for the backend. It was made for the 2025 Washington State FBLA competition.
-- **[RubyParticleSimulation](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
-- **[find-your-recipe](https://github.com/HotWheelzCodez/find-your-recipe)** - A web-app I made for a Tradeshow for my school, it got 2nd place and I learned a lot about API's and how to use React.
-- **[Circular-Motion-Simulartion](https://github.com/HotWheelzCodez/Circular-Motion-Simulation)** - A C++ Circular Motion Simulation made for a Physics project, learned a lot about Raylib and Physics.
-- **[Geta-Mouse](https://github.com/HotWheelzCodez/Geta-Mouse)** - I created a video game in Raylib using C++ for an ELA project-based on the book "Of Mice And Men", and learned a lot about how to manage game state and assets, such as images and audio.
+- **[Green Vault Accounting](https://greenvaultaccounting.com)** - An all-in-one business management and accounting platform built to make tracking and viewing your data simple for business, and advanced enough for accounts to be able to perform advanced accounting operations for business. The name, logo, and general idea was carried over, and enhanced upon from my WA FBLA state competition project, Green Vault.
+- **[Green Vault](https://github.com/HotWheelzCodez/GreenVault)** - A desktop application made in C++ with Raylib (for the front end) and a Java HTTP server for the back end. It was made for the 2025 Washington State FBLA competition. It used a a duel storage system, it had a remote MySQL database hosted on Bluehost, as well as storing data locally via a custom data format, it would sync this data anytime you went online, allowing users to use it fully offline.
+- **[Ruby Particle Simulation](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
+- **[Find Your recipe](https://github.com/HotWheelzCodez/find-your-recipe)** - A web-app I made for a trade show at my school, it got 2nd place and I learned a lot about API's and how to use React.
+- **[Circular Motion Simulation](https://github.com/HotWheelzCodez/Circular-Motion-Simulation)** - A C++ Circular Motion Simulation made for a Physics project, learned a lot about Raylib and Physics.
+- **[Geta Mouse](https://github.com/HotWheelzCodez/Geta-Mouse)** - I created a video game in Raylib using C++ for an English Language Arts project, based on the book "Of Mice And Men", and learned a lot about how to manage game state and assets, such as images and audio.
 
 ---
 
@@ -70,4 +70,4 @@ dustin@bucholtzsoftware.com
 
 https://bucholtzsoftware.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz/)
