@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 ---
 
 ### 💻 About Me
-- 🔹 **Favorite Languages**: C/C++, Go, and React. I love the performance and control of C/C++ and the dynamic capabilities of React for building web applications.
-- 🔹 **Other Skills**: Python, Java, SQL, and experience with backend frameworks and databases.
 - 🔹 **Experience**: I started my own company (Bucholtz Software, LLC), where I founded [Green Vault Accounting](https://greenvaultaccounting.com), as well as developed a custom mobile app for a local dance studio, [Isabelle's Dance Time](https://isabellesdancetime.com) (as well as managing their website). I have also worked on several small solo projects, as well as contributing to some open-source projects. I also have my own open-source C standard library [Djb_Std](https://github.com/HotWheelzCodez/DjbStd), which is still periodically being developed.
 
 ---
