@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![ABAP](https://img.shields.io/badge/abap-blue)
+![ABAP](https://img.shields.io/badge/ABAP-blue)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 **Known Languages**:
