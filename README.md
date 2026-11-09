@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 ---
 
 ### 💻 About Me
-- 🔹 **Experience**: I started my own company (Bucholtz Software, LLC), where I founded [Green Vault Accounting](https://greenvaultaccounting.com), as well as developed a custom mobile app for a local dance studio, [Isabelle's Dance Time](https://isabellesdancetime.com) (as well as managing their website). I have also worked on several small solo projects, as well as contributing to some open-source projects. I also have my own open-source C standard library [Djb_Std](https://github.com/HotWheelzCodez/DjbStd), which is still periodically being developed.
+- **Experience**: I started my own company (Bucholtz Software, LLC), where I founded [Green Vault Accounting](https://greenvaultaccounting.com), as well as developed a custom mobile app for a local dance studio, [Isabelle's Dance Time](https://isabellesdancetime.com) (as well as managing their website). I have also worked on several small solo projects, as well as contributing to some open-source projects. I also have my own open-source C standard library [Djb_Std](https://github.com/HotWheelzCodez/DjbStd), which is still periodically being developed.
 
 ---
 
@@ -17,32 +17,43 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![ABAP](https://img.shields.io/badge/abap)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 **Known Languages**:
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frameworks & Libraries**:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 **Databases**:  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
+**Platforms & Services**:
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
+![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)
+
 ---
 
-### 🌐 My Projects
+### My Projects
 - **[Green Vault Accounting](https://greenvaultaccounting.com)** - An all-in-one business management and accounting platform build to make tracking and viewing your business simple for business owners, and complex enough for accounts to use in combination with the business owner.
 - **[Green Vault](https://github.com/HotWheelzCodez/GreenVault)** - A desktop application made in C++ with Raylib (for the frontend) and a Java HTTP server for the backend. It was made for the 2025 Washington State FBLA competition.
 - **[RubyParticleSimulation](https://github.com/HotWheelzCodez/RubyParticleSimulation/)** - A program written in Ruby using Raylib which simulates particles that are attracted to the mouse position, and allows you to configure the program output, as well as rendering it to a video
@@ -59,4 +70,4 @@ dustin@bucholtzsoftware.com
 
 https://bucholtzsoftware.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz-160956311/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustin-bucholtz/)
