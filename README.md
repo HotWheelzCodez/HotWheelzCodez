@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm the founder of [Green Vault Accounting](https:
 
 ### Tech Stack
 **Proficient Languages**:  
+
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
